@@ -1,0 +1,11 @@
+title:This is a personal wish list by agent_funk
+description: Thanks to agent_funk
+
+title:This is a personal wish list by agent_funk
+description:Thanks to agent_funk
+
+
+// The Mountaintop
+//notes: Boss melt
+dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,469285294
+dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
